@@ -29,7 +29,7 @@ function binary(num,target){
 return null
 }
 let num = [2,8,0,23,5,45,76]
-let target2=23
+let target=23
 console.log(binary(num,target))
 
 // Given years between 2000 and 2023, console all the leap years in the following
